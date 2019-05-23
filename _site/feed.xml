@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/My_Web/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/My_Web/" rel="alternate" type="text/html" /><updated>2019-05-23T17:22:30-04:00</updated><id>http://localhost:4000/My_Web/feed.xml</id><title type="html">Ningxiao Zhang’s Website</title><subtitle>This is my website including my interesting projects.</subtitle><entry><title type="html">Build my own Website</title><link href="http://localhost:4000/My_Web/posts/build-my-own-website/" rel="alternate" type="text/html" title="Build my own Website" /><published>2019-05-23T08:57:03-04:00</published><updated>2019-05-23T08:57:03-04:00</updated><id>http://localhost:4000/My_Web/posts/edit-my-own-website</id><content type="html" xml:base="http://localhost:4000/My_Web/posts/build-my-own-website/">&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Introduction:&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Setting environment:&lt;/p&gt;
+
+    &lt;p&gt;Mac installation:&lt;/p&gt;
+
+    &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;ruby -v&lt;/code&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;gem -v&lt;/code&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;gem install jekyll bundler&lt;/code&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll -v&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Create a Website:&lt;/p&gt;
+
+    &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new $name_of_your_website&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Introduction:</summary></entry></feed>
