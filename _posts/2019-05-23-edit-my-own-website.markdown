@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Edit my own Website"
+title:  "Build my own Website"
 date:   2019-05-23 08:57:03 -0400
 categories: Interesting-projects
+permalink: "/posts/build-my-own-website/"
 ---
 
 1. Introduction:
