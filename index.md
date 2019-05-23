@@ -4,3 +4,4 @@
 
 layout: home
 ---
+<img src="assets/img/2019NY.jpg" alt="2019NY" width="200"/>
