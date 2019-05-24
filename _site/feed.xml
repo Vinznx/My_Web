@@ -1,23 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/My_Web/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/My_Web/" rel="alternate" type="text/html" /><updated>2019-05-23T17:34:01-04:00</updated><id>http://localhost:4000/My_Web/feed.xml</id><title type="html">Ningxiao Zhang’s Website</title><subtitle>This is my website including my interesting projects.</subtitle><entry><title type="html">Build my own Website</title><link href="http://localhost:4000/My_Web/posts/build-my-own-website/" rel="alternate" type="text/html" title="Build my own Website" /><published>2019-05-23T08:57:03-04:00</published><updated>2019-05-23T08:57:03-04:00</updated><id>http://localhost:4000/My_Web/posts/build-my-own-website</id><content type="html" xml:base="http://localhost:4000/My_Web/posts/build-my-own-website/">&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Introduction:&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Setting environment:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/My_Web/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/My_Web/" rel="alternate" type="text/html" /><updated>2019-05-24T09:03:59-04:00</updated><id>http://localhost:4000/My_Web/feed.xml</id><title type="html">Ningxiao Zhang’s Website</title><subtitle>This is my website including my interesting projects.</subtitle><entry><title type="html">Built My Own Website By Using Jekyll</title><link href="http://localhost:4000/My_Web/posts/build-my-own-website/" rel="alternate" type="text/html" title="Built My Own Website By Using Jekyll" /><published>2019-05-23T08:57:03-04:00</published><updated>2019-05-23T08:57:03-04:00</updated><id>http://localhost:4000/My_Web/posts/build-my-own-website</id><content type="html" xml:base="http://localhost:4000/My_Web/posts/build-my-own-website/">&lt;p&gt;I have been thinking of building my own website for years. However, I don’t have much time to study Hyper Text Makeup Language (HTML) and use it to build my personal website. Luckily, I found a YouTube video from DevTips by a website designer, Travis Neilson, teaching “How to build a website from start to finish”. Then, I figured it out that it is not that hard to build a website by other software. To understand more about how does the code in the video works, I studied to use Jekyll through its tutorial videos by Mike Dane. Here, I show you how I setup my first personal website:&lt;/p&gt;
 
-    &lt;p&gt;Mac installation:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=sJhhLvW-Xvg&amp;amp;list=PLqGj3iMvMa4KeBN2krBtcO3U90_7SOl-A&amp;amp;index=1&quot;&gt;&lt;img src=&quot;../../assets/img/Design+code.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://youtu.be/T1itpPvFWHI&quot;&gt;&lt;img src=&quot;../../assets/img/Jekyll.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;ruby -v&lt;/code&gt;&lt;/p&gt;
+&lt;h1 id=&quot;1introduction&quot;&gt;1.Introduction&lt;/h1&gt;
 
-    &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;gem -v&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;“Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites.” (Wikipedia) Jekyll is very similar to another software that I used in writing my papers – Latex. You can apply a beautiful theme by one line command and then include your contents in a markdown formation which is very easy to use. There are thousands free Jekyll theme published online. And it is also easy to post your website on GitHub.&lt;/p&gt;
 
-    &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;gem install jekyll bundler&lt;/code&gt;&lt;/p&gt;
+&lt;h1 id=&quot;2setting-environment-macos&quot;&gt;2.Setting Environment (MacOS):&lt;/h1&gt;
 
-    &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll -v&lt;/code&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Create a Website:&lt;/p&gt;
+&lt;p&gt;The requirement of Ruby is version 2.4.0 or above. My MacOS system installs Ruby as default. I opened a terminal on my laptop and use &lt;code class=&quot;highlighter-rouge&quot;&gt;ruby -v&lt;/code&gt; to check the version. I found it does not meet the requirement. I used &lt;code class=&quot;highlighter-rouge&quot;&gt;brew install ruby&lt;/code&gt; to update your Ruby to the newest version.&lt;/p&gt;
 
-    &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new $name_of_your_website&lt;/code&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">Introduction:</summary></entry></feed>
+&lt;p&gt;Then, I installed bundler and jekyll by &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo gem install bundler jekyll&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;3create-a-website&quot;&gt;3.Create A Website:&lt;/h1&gt;
+
+&lt;p&gt;I created a folder (NZ_web) to save all the files for my website. Then, I ran &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new My_Web&lt;/code&gt; in the terminal to generate a new folder with initial website files. Moved into this new directory and made it available on my local server by &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;4host-my-website-on-github&quot;&gt;4.Host My Website On GitHub:&lt;/h1&gt;
+
+&lt;p&gt;I created a new repository for my website and cloned it to my laptop. Copied and pasted all the website files into this local repository. Synced it with my origin repository and then generated my first website on &lt;a href=&quot;https://vinznx.github.io/My_Web/&quot;&gt;https://vinznx.github.io/My_Web/&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ningxiao Zhang</name></author><summary type="html">I have been thinking of building my own website for years. However, I don’t have much time to study Hyper Text Makeup Language (HTML) and use it to build my personal website. Luckily, I found a YouTube video from DevTips by a website designer, Travis Neilson, teaching “How to build a website from start to finish”. Then, I figured it out that it is not that hard to build a website by other software. To understand more about how does the code in the video works, I studied to use Jekyll through its tutorial videos by Mike Dane. Here, I show you how I setup my first personal website:</summary></entry></feed>
