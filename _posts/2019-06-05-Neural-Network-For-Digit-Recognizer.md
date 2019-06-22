@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kaggle: Neural Network For Digit Recognizer"
-date:   2019-05-23 08:57:03 -0400
+date:   2019-06-25 08:00:00 -0400
 categories: Interesting-projects
 author: Ningxiao Zhang
 permalink: "/posts/neural-network-for-digit-recognizer/"
