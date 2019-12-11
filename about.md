@@ -7,57 +7,39 @@ permalink: /about/
 
 I am a graduate student in astronomy and astrophysics department with 5+ years astronomy data analysis experience.I am looking to obtain a Data Scientist internship, to utilize machine learning and computer vision to solve real-world problems.
 
-Ningxiao Zhang
 
-\vspace{0.05in}
-Mitsubishi Electric Research Laboratories\
-201 Broadway, 8th Floor\
-Cambridge, MA 02139-1955
 
-  -------- ---------------------------
-  Phone:   \(703) 989-2245
-  Email:   <zhangningxiao@gmail.com>
-  -------- ---------------------------
-
-------------------------------------------------------------------------
-
-\vspace{3pt}
-I am a graduate student in astronomy and astrophysics department with 5+
-years astronomy data analysis experience. I am looking to obtain a
-Machine Learning internship, to utilize machine learning and computer
-vision to solve real-world problems.
-
-Education {#education .unnumbered .unnumbered}
+Education
 =========
 
--   **The Pennsylvania State University**, PA 2015-2021 (expected)
+**The Pennsylvania State University**, PA, 2015-2021 (expected)
 
--   *Ph.D. Candidate, Astronomy and Astrophysics*
+-     *Ph.D. Candidate, Astronomy and Astrophysics*
 
--   *Relevant Coursework: Computational Physics and Astrophyscis,
+-     *Relevant Coursework: Computational Physics and Astrophyscis,
     Applied Statistics, Regression Methods.*
 
--   **Nanjing University**, Nanjing, China 2007 - 2015
+**Nanjing University**, Nanjing, China, 2007 - 2015
 
--   *M.S. & B.S., Astronomy and Astrophysics*
+-     *M.S. & B.S., Astronomy and Astrophysics*
 
-Experience {#experience .unnumbered .unnumbered}
+Experience
 ==========
 
--   **Mitsubishi Electric Research Laboratories**, Cambridge, US
+**Mitsubishi Electric Research Laboratories**, Cambridge, US
     September 2019 - now
 
--   *Research Intern*
+-     *Research Intern*
 
--   **Penn State University**, State College, US September 2017 - now
+**Penn State University**, State College, US September 2017 - now
 
--   *Research Assistant, Astronomy Instruments Development*
+-     *Research Assistant, Astronomy Instruments Development*
 
--   **Harvard University**, Cambridge, US 2014
+**Harvard University**, Cambridge, US 2014
 
--   *COSPAR Visiting Scholar*
+-     *COSPAR Visiting Scholar*
 
-Projects {#projects .unnumbered .unnumbered}
+Projects
 ========
 
 **Traffic landmark detection for high-definition map creation**
@@ -101,16 +83,14 @@ Projects {#projects .unnumbered .unnumbered}
 -   Speed up the measuring process by 3 times and increase the accuracy
     for irregular observations.
 
-Skills {#skills .unnumbered .unnumbered}
+Skills
 ======
 
-\setlength
-\itemsep{0em}
 Programming: Python, Latex, C, SQL, HTML, etc
 
 OS: Linux, Mac OS, Windows
 
-Publications {#publications .unnumbered .unnumbered}
+Publications
 ============
 
 Siheng Chen, **Ningxiao Zhang**, & Huifan Sun (2019) \"Collaborative
